@@ -1,5 +1,4 @@
-cs352project3
-Kiernan King, Robert Reid
+Robert Reid, Kiernan King 
 
 Implementing a simple python http server and cookies. 
 
